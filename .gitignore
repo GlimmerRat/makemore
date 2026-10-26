@@ -1,0 +1,27 @@
+# Python and notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+.env
+.env.*
+!.env.example
+
+# Outputs, model checkpoints and logs
+out/
+outputs/
+runs/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+events.out.tfevents.*
+wandb/
+
+# Local OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Keep the upstream names.txt dataset tracked.

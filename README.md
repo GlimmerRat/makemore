@@ -79,3 +79,7 @@ Have fun!
 ### License
 
 MIT
+
+## Learning notebooks (this fork)
+
+This fork adds a separate [guided learning workspace](LEARNING.md) for Colab/Gemini and optional local or Solveit use. The upstream script and dataset are unchanged.

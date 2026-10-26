@@ -1,0 +1,5 @@
+# Minimal dependency for optional local/Solveit use.
+# PyTorch is normally preinstalled in Colab.
+# Do not pin an arbitrary version until the learning environment is tested.
+# For CUDA-specific local setups use https://pytorch.org/get-started/locally/
+torch
